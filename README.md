@@ -63,7 +63,7 @@
 + [Port Map](http://www.codingmonkeys.de/portmap/) - Free
 + [Slate](https://github.com/jigish/slate) - Free
 + [The Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) - Free
-+ [WineBottler](http://winebottler.kronenberg.org)
++ [WineBottler](http://winebottler.kronenberg.org) - Free
 
 ##Web Design
 
