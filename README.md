@@ -19,6 +19,7 @@
 + [Adobe InDesign](http://www.adobe.com)
 + [ImageOptim](http://imageoptim.com) - Free
 + [OmniGraffle Pro](http://www.omnigroup.com/products/omnigraffle/feature_comparison/)
++ [Pixen](http://pixen.en.softonic.com/mac)
 
 ##Development
 
